@@ -10,7 +10,7 @@
         "marked": "0.3.2"
     },
     "packageDependencies": {
-        "tabs": "CodeboxIDE/package-tabs",
-        "editor": "CodeboxIDE/package-editor"
+        "tabs": "tianmaying/package-tabs",
+        "editor": "tianmaying/package-editor"
     }
 }
